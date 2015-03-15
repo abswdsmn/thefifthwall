@@ -38,14 +38,14 @@ $output = '<!DOCTYPE html>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="index.php">The Fifth Wall<img src="images/navbar/Fifth-Logo-Transparent.png"></a>
+              <a class="navbar-brand" href="index.php">the fifth wall<img src="images/navbar/Fifth-Logo-Transparent.png"></a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="index.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
-                <li><a href="contact.php">Contact</a></li>
-                <li><a target="_blank" href="/shop">Shop</a></li>
+                <li><a href="index.php">home</a></li>
+                <li><a href="commissions.php">about</a></li>
+                <li><a href="contact.php">contact</a></li>
+                <li><a target="_blank" href="/shop">shop</a></li>
               </ul>
             </div>
           </div>
