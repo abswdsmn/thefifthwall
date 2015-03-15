@@ -1,0 +1,45 @@
+footer
+{
+    margin-top:80px;
+}
+footer p#social a
+{
+    margin-right:6px;
+}
+
+div.navspacer
+{
+    height:50px;
+}
+
+.navbar-inverse .navbar-brand
+{
+    color:#ffffff;
+}
+
+.navbar-inverse .navbar-brand:hover
+{
+    color:#af1212;
+}
+
+.navbar-brand > img
+{
+    display:inline;
+    margin-left:8px;
+    margin-bottom:6px;
+    width:20px;
+}
+
+@media (min-width: 768px) {
+    div.navspacer
+    {
+        height:0px;
+    }
+}
+
+@media (min-width: 992px) {
+    div.navspacer
+    {
+        height:0px;
+    }
+}
