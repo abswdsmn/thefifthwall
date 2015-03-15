@@ -2,31 +2,29 @@
   $menu = 'about';
   include 'header.php';
 ?>
-    <!-- Circles -->
-    <div class="navspacer"></div>
-    <div class="container marketing">
-      <div class="row">
-        <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Prints</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+<div class="navspacer"></div>
+<div class="container marketing">
+    <!-- START THE FEATURETTES -->
+      <!--<hr class="featurette-divider">-->
+
+      <div class="row featurette">
+        <div class="col-md-12">
+          <h2 class="featurette-heading">The Fifth Wall <span class="text-muted">offers bespoke art, design and multimedia for cafes, offices and homes, inside and out.</span></h2>
+          <p class="lead">We coordinate directly with Bristol's talented artists, photographers and film makers to develop your ideas into unique and innovative creations for both personal and professional solutions.</p>
+          <p class="lead">Our artists will work with you from conception to completion, starting with an initial no-obligation meeting, we will determine your specific objectives and requirements to offer a tailor-made solution.</p>
+          <p class="lead">Whether you are looking to improve your living or working space, increase brand awareness market to existing clients or launch a new product or service, we have the expertise to help.</p>
+          <p class="lead">We work with a wide range of outputs including photography, film, graffiti murals, framed and canvas based works and original, handcrafted sign boards and stencils.</p>
+          <p class="lead">Get in touch to discuss your requirements, and we look forward to meeting you soon.</p>
+          <p class="lead">The Fifth Wall.</p>
         </div>
-        <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Commissions</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Join us</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
+        <!--<div class="col-md-5">
+          <img class="featurette-image img-responsive" src="images/placeholder_500x500.jpg" alt="Generic placeholder image">
+        </div>-->
       </div>
-    </div>
-    <!-- Circles -->
+
+      <!--<hr class="featurette-divider">-->
+</div>
+      <!-- /END THE FEATURETTES -->
 <?php
   include 'footer.php';
 ?>
