@@ -55,22 +55,22 @@ div.navspacer#carousel
     background-image:none;
 }
 
-@media (min-width: 768px) {
-    div.navspacer#carousel
-    {
-        height:0px;
-    }
-    .carousel-caption
-    {
-        height:300px;
-    }
-    .carousel-caption h1
-    {
-        font-size:36px;
-    }
+.featurette-heading
+{
+    margin-top: 0px;
 }
 
-@media (min-width: 992px) {
+div.navspacer
+{
+    height: 80px;
+}
+
+.red
+{
+    color:#af1212;
+}
+
+@media (min-width: 768px) {
     div.navspacer#carousel
     {
         height:0px;
@@ -82,5 +82,36 @@ div.navspacer#carousel
     .carousel-caption h1
     {
         font-size:36px;
+    }
+    .featurette-heading
+    {
+        margin-top: 0px;
+    }
+    div.navspacer
+    {
+        height: 120px;
+    }
+}
+
+@media (min-width: 1025px) {
+    div.navspacer#carousel
+    {
+        height:0px;
+    }
+    .carousel-caption
+    {
+        height:340px;
+    }
+    .carousel-caption h1
+    {
+        font-size:72px;
+    }
+    .featurette-heading
+    {
+        margin-top: 40px;
+    }
+    div.navspacer
+    {
+        height: 120px;
     }
 }
