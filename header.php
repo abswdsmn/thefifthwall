@@ -13,7 +13,6 @@ $output = '<!DOCTYPE html>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css">
-    <link rel="stylesheet" href="css/custom.css"> 
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -23,6 +22,7 @@ $output = '<!DOCTYPE html>
 
     <!-- Custom styles for this template -->
     <link href="bootstrap/css/carousel.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom.css"> 
   </head>
 
   <body>
