@@ -2,3 +2,4 @@
 2. Turn other carousel images back on
 3. Contact us page (copy from shop)
 4. Headlines on commission page - tweak font size to get head on same line. 
+5. Added somethign for git.
