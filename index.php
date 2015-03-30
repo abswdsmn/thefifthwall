@@ -1,6 +1,21 @@
+<head>    
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/tiles/apple-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/tiles/apple-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/tiles/apple-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/tiles/apple-icon-144x144.png" />
+    
+    <meta name="msapplication-square70x70logo" content="images/tiles/acme-tile-small.png" />
+<meta name="msapplication-square150x150logo" content="images/tiles/acme-tile-medium.png" />
+<meta name="msapplication-wide310x150logo" content="images/tiles/acme-tile-wide.png" />
+<meta name="msapplication-square310x310logo" content="images/tiles/acme-tile-large.png" />
+</head>
+
 <?php
+ 
   $menu = 'index';
   include 'header.php';
+ 
 ?><div class="navspacer" id="carousel"></div>
     <!-- Carousel -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -23,7 +38,7 @@
           <div class="container">
             <div class="carousel-caption">
               <!--<div class="carousel-caption-center">-->
-                <h1>art | design | media</h1>
+               <!-- <h1>art | design | media</h1>
                   <!--<p>art | design | media</p>-->
                   <!--<p><a class="btn btn-lg btn-primary" href="shop/" role="button">Shop</a></p>-->
               <!--</div> --> 
@@ -168,8 +183,8 @@
           <a href="commissions.php">
           <img class="img-circle" src="images/home/commissions_link_thumb2.png" alt="commissions link image" style="width: 140px; height: 140px;">
           </a>
-          <h2>Commissions</h2>
-          <p>Bespoke art, design and media work.</p>
+          <h2>Services</h2>
+          <p>Bespoke art, design and media commissions.</p>
           <p><a class="btn btn-default" href="commissions.php" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-lg-4">
@@ -183,6 +198,7 @@
       </div>
     </div>
     <!-- Circles -->
+    
 <?php
   include 'footer.php';
 ?>

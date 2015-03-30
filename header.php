@@ -43,7 +43,7 @@ $output = '<!DOCTYPE html>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li><a href="index.php">home</a></li>
-                <li><a href="commissions.php">about</a></li>
+                <li><a href="commissions.php">services</a></li>
                 <li><a href="contact.php">contact</a></li>
                 <li><a target="_blank" href="/shop">shop</a></li>
               </ul>
