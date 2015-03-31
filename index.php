@@ -33,127 +33,41 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         
-        <div class="item active">
-        <img src="images/home/carousel/bear_home_page.jpg" alt="Carousel image">
-          <div class="container">
-            <div class="carousel-caption">
-              <!--<div class="carousel-caption-center">-->
-               <!-- <h1>art | design | media</h1>
-                  <!--<p>art | design | media</p>-->
-                  <!--<p><a class="btn btn-lg btn-primary" href="shop/" role="button">Shop</a></p>-->
-              <!--</div> --> 
-            </div>
-          </div>
+        <div class="fifthcaption item active">
+          <img src="images/home/carousel/bear_home_page.jpg" alt="Carousel image">
+          <h1 class="fifthcaptiontext">art | design | media</h1>
         </div>
         
         <div class="item">
-        <img src="images/home/carousel/Airlock.jpg" alt="Carousel image">
-          <!--<div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>-->
+          <img src="images/home/carousel/Airlock.jpg" alt="Carousel image">
         </div>
         
         <div class="item">
-        <img src="images/home/carousel/Mickey-Mouse.jpg" alt="Carousel image">
-          <!--<div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>-->
+          <img src="images/home/carousel/Mickey-Mouse.jpg" alt="Carousel image">
         </div>
-        
-        <!--<div class="item">
-        <img src="images/home/carousel/Chihuahua.jpg" alt="Carousel image">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>
-        </div>-->
         
         <div class="item">
-        <img src="images/home/carousel/Werburgh's-Tunnel.jpg" alt="Carousel image">
-          <!--<div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>-->
+          <img src="images/home/carousel/Werburgh's-Tunnel.jpg" alt="Carousel image">
         </div>
-        
-        <!--<div class="item">
-        <img src="images/home/carousel/Becky.jpg" alt="Carousel image">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>
-        </div>-->
 
         <div class="item">
-        <img src="images/home/carousel/Ground-Up-Mural.jpg" alt="Carousel image">
-          <!--<div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>-->
+          <img src="images/home/carousel/Ground-Up-Mural.jpg" alt="Carousel image">
         </div>
         
         <div class="item">
-        <img src="images/home/carousel/BearFruit2.jpg" alt="Carousel image">
-          <!--<div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>-->
+          <img src="images/home/carousel/BearFruit2.jpg" alt="Carousel image">
         </div>
         
         <div class="item">
-        <img src="images/home/carousel/BearFruit4.jpg" alt="Carousel image">
-          <!--<div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>-->
+          <img src="images/home/carousel/BearFruit4.jpg" alt="Carousel image">
         </div>
         
         <div class="item">
-        <img src="images/home/carousel/Black-Lagoon.jpg" alt="Carousel image">
-          <!--<div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>-->
+          <img src="images/home/carousel/Black-Lagoon.jpg" alt="Carousel image">
         </div>
         
         <div class="item">
-        <img src="images/home/carousel/M32.jpg" alt="Carousel image">
-          <!--<div class="container">
-            <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Example paragraph.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-            </div>
-          </div>-->
+          <img src="images/home/carousel/M32.jpg" alt="Carousel image">
         </div>
 
       </div>

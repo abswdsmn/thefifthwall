@@ -35,13 +35,13 @@
       <hr class="featurette-divider">
 
       <div class="row featurette">
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="images/commissions/Synergi_Stencil1.jpg" alt="Generic placeholder image">
-        </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Art</h2>
           <p class="lead">From hand-drawn wall murals to original canvased or framed artwork, The Fifth Wall specialises in developing your ideas into unique, innovative creations for both personal and professional needs.</p>
           <p class="lead">Our talented artists will work with you from conception to completion, starting with an initial no-obligation meeting; we will determine your desired outcome to offer a tailor-made solution.</p>        
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="images/commissions/Synergi_Stencil1.jpg" alt="Generic placeholder image">
         </div>
       </div>
 
