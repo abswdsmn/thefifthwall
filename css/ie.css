@@ -1,0 +1,26 @@
+.fifthcaptiontext
+{
+    position:absolute;
+    top:20%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    padding-bottom:30px;
+    color:white;
+    font-size:18px;
+}
+
+@media (min-width: 768px) {
+    .fifthcaptiontext
+    {
+        top:50%;
+        font-size:36px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .fifthcaptiontext
+    {
+        top:50%;
+        font-size:48px;
+    }
+}

@@ -2,8 +2,8 @@
 $output = '<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -14,6 +14,11 @@ $output = '<!DOCTYPE html>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css">
 
+    <!--[if IE]>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="js/ie.js"></script>
+    <![endif]-->
+    
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -22,7 +27,10 @@ $output = '<!DOCTYPE html>
 
     <!-- Custom styles for this template -->
     <link href="bootstrap/css/carousel.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/custom.css"> 
+    <link rel="stylesheet" href="css/custom.css">
+    <!--[if IE]>
+        <link rel="stylesheet" href="css/ie.css">
+    <![endif]-->
   </head>
 
   <body>
