@@ -41,7 +41,7 @@
           <p class="lead">Our talented artists will work with you from conception to completion, starting with an initial no-obligation meeting; we will determine your desired outcome to offer a tailor-made solution.</p>        
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="images/commissions/Synergi_Stencil1.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="images/commissions/art_thumb.jpg" alt="Generic placeholder image">
         </div>
       </div>
 
